@@ -98,3 +98,8 @@ Subject to:
 ![Optimized Load Curve](results/load_curve.png)
 
 ---
+## ⚙️ System Architecture
+
+Solar Data → Data Loader → Feature Engineering → ML Solar Forecast  
+→ Base Load Simulation → EV Charging Model → Dynamic Pricing  
+→ Linear Programming Optimizer → Optimized Load Curve → Visualization
