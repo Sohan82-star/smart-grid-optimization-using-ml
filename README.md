@@ -103,3 +103,9 @@ Subject to:
 Solar Data → Data Loader → Feature Engineering → ML Solar Forecast  
 → Base Load Simulation → EV Charging Model → Dynamic Pricing  
 → Linear Programming Optimizer → Optimized Load Curve → Visualization
+
+
+## 💻 Coding Profiles
+
+- 🔗 LeetCode: https://leetcode.com/u/npUhI557iL/
+- 🔗 HackerRank: https://www.hackerrank.com/profile/sohanathukuru
